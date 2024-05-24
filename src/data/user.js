@@ -8,14 +8,14 @@ const INFO = {
 
 	socials: {
 		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/tegarerik41",
+		linkedin: "https://www.linkedin.com/in/tegar-erik-alianto/",
 		instagram: "https://instagram.com/",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Data Engineer, Data Analyst, Data Scientist, and  MLBB Player.",
+		title: "Data Engineer, Data Analyst, Data Scientist",
 		description:
 			"Welcome to my web portfolio, where you can explore a range of projects and accomplishments in the fields of Data Engineering, Data Analysis, and Data Science. I am a data enthusiast, dedicated to unraveling the world of data, unearthing insights from hidden information, and designing data-backed solutions. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
@@ -36,7 +36,7 @@ const INFO = {
 		{
 			title: "Project 1",
 			description:
-				"Sebuah proyek untuk mendeteksi penyakit pada daun padi.",
+				"🌾 Detecting Rice Leaf Diseases with CNN, InceptionV3, and Xception! 🚀 Using advanced deep learning models, our project identifies and classifies rice leaf diseases with high accuracy. Empowering farmers with AI-driven insights for healthier crops.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/tegarerik41/Deteksi-Daun-Padi",
@@ -45,37 +45,37 @@ const INFO = {
 		{
 			title: "Project 2",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"🚀 Automate your Discord reports with Python! 🐍 Effortlessly generate and send detailed reports directly to your server, saving time and boosting productivity.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tegarerik41/Project-1-Automate-Report",
 		},
 
 		{
 			title: "Project 3",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This final project is about Dockerize ETL Pipeline using ETL tools Airflow that extract Public API data from PIKOBAR, then load into MySQL (Staging Area) and finally aggregate the data and save into PostgreSQL.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tegarerik41/FInal-Project-Digital-Skola-DE",
 		},
 
 		{
 			title: "Project 4",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"🔍 Predicting Diabetes Progression with Random Forest Regression! 🚀 Using Python and Scikit-learn, we trained a model to accurately predict the progression of diabetes. From data exploration to selecting the best model, everything is optimized to provide valuable insights.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tegarerik41/HW-Sesi-32-Machine-Learning",
 		},
 
 		{
 			title: "Project 5",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"🚨 Real-Time Fraud Detection with Advanced Processing! 🚀 Leveraging cutting-edge algorithms and Python, our project monitors transactions in real-time to identify and prevent fraudulent activities instantly. Stay ahead of fraud with intelligent, real-time solutions.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/tegarerik41/Project-6-Real-time-Processing",
 		},
 	],
 };
